@@ -1,0 +1,12 @@
+{
+  "name": "mithril-es",
+  "version": "0.0.0",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "repository": "https://github.com/codeurs/mithril-es",
+  "license": "MIT",
+  "sideEffects": false,
+  "peerDependencies": {
+    "mithril": "^2.0.0-rc.3"
+  }
+}

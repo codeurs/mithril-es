@@ -1,0 +1,1 @@
+export {default as route} from 'mithril/route'

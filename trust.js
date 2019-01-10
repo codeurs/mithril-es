@@ -1,0 +1,1 @@
+export {default as trust} from 'mithril/render/trust'
